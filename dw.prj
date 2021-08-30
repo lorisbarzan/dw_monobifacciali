@@ -1,0 +1,18 @@
+;;; VLisp project file [V2.0] dw saved to:[W:/CAB/C.9999/Disegni/Componenti/Pannelli/02-MONOBIFACCIALI/SOFTWARE/DWparetiMB/Lisp] at:[7/30/21] 
+(VLISP-PROJECT-LIST
+  :NAME
+  dw
+  :OWN-LIST
+  ("carcassa"
+    "3dsimb" "carter" "distbase" "acad"	"dispas" "dissvi" "fori"
+    "registra" "rinforzi")
+  :FAS-DIRECTORY
+  "W:\\CAB\\C.9999\\Disegni\\Componenti\\Pannelli\\02-MONOBIFACCIALI\\SOFTWARE\\DWparetiMB"
+  :TMP-DIRECTORY
+  "W:\\CAB\\C.9999\\Disegni\\Componenti\\Pannelli\\02-MONOBIFACCIALI\\SOFTWARE\\DWparetiMB"
+  :PROJECT-KEYS
+  (:BUILD (:standard) :MERGED nil :SAFE-MODE T :MSGLEVEL 1)
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF
